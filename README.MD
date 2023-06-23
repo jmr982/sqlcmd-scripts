@@ -5,8 +5,6 @@ CSV files for both operations.
 Bash scripts
 1. sqlcmdexport.sh - Export table from database to CSV
 2. sqlcmdimport.sh - Import from CSV (bcp) to database table
-3. cleanup.sh - Use to clean the CSV file before import. Remove Null 
-and change double quotes (") to single quotes (')
 
 Batch scripts
 1. sqlcmdexport.bat - Export table from database to CSV
